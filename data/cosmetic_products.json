@@ -1,0 +1,396 @@
+[
+  {
+    "id": "prod001",
+    "name": "Hyaluronic Acid Serum",
+    "type": "Skin",
+    "brand": "The Ordinary",
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Vitamin B5",
+      "Aqua",
+      "Propanediol"
+    ],
+    "benefits": [
+      "Deep hydration",
+      "Plumps skin",
+      "Reduces fine lines",
+      "Improves skin texture"
+    ],
+    "usage": "Apply a few drops to the face in the morning and evening before creams."
+  },
+  {
+    "id": "prod002",
+    "name": "Niacinamide 10% + Zinc 1% Serum",
+    "type": "Skin",
+    "brand": "The Ordinary",
+    "ingredients": [
+      "Niacinamide (Vitamin B3)",
+      "Zinc PCA",
+      "Aqua"
+    ],
+    "benefits": [
+      "Reduces pore appearance",
+      "Balances sebum activity",
+      "Reduces blemishes",
+      "Improves skin clarity"
+    ],
+    "usage": "Apply to entire face morning and evening before heavier creams."
+  },
+  {
+    "id": "prod003",
+    "name": "Tea Tree Special Shampoo",
+    "type": "Hair",
+    "brand": "Paul Mitchell",
+    "ingredients": [
+      "Tea Tree Oil",
+      "Peppermint",
+      "Lavender",
+      "Sodium Laureth Sulfate"
+    ],
+    "benefits": [
+      "Invigorates scalp",
+      "Cleanses deeply",
+      "Adds shine",
+      "Soothes irritation"
+    ],
+    "usage": "Massage into wet hair. Rinse thoroughly. Repeat if desired."
+  },
+  {
+    "id": "prod004",
+    "name": "Intensive Repair Conditioner",
+    "type": "Hair",
+    "brand": "Dove",
+    "ingredients": [
+      "Keratin Repair Actives",
+      "Coconut Oil",
+      "Amino Acids"
+    ],
+    "benefits": [
+      "Repairs damaged hair",
+      "Strengthens hair",
+      "Reduces breakage",
+      "Leaves hair smooth"
+    ],
+    "usage": "Apply to wet hair after shampooing, focus on mid-lengths to ends. Leave for 1-2 minutes then rinse."
+  },
+  {
+    "id": "prod005",
+    "name": "Vitamin C Brightening Cleanser",
+    "type": "Skin",
+    "brand": "Paula's Choice",
+    "ingredients": [
+      "Vitamin C (Ascorbic Acid)",
+      "Green Tea Extract",
+      "Glycerin"
+    ],
+    "benefits": [
+      "Brightens complexion",
+      "Removes impurities",
+      "Antioxidant protection",
+      "Evens skin tone"
+    ],
+    "usage": "Wet face and apply a small amount. Gently massage in circular motions, then rinse thoroughly."
+  },
+  {
+    "id": "prod006",
+    "name": "Sunscreen SPF 50+",
+    "type": "Skin",
+    "brand": "La Roche-Posay",
+    "ingredients": [
+      "Mexoryl XL",
+      "Titanium Dioxide",
+      "Zinc Oxide",
+      "Thermal Spring Water"
+    ],
+    "benefits": [
+      "High UV protection",
+      "Water resistant",
+      "Non-greasy finish",
+      "Suitable for sensitive skin"
+    ],
+    "usage": "Apply generously 15 minutes before sun exposure. Reapply every 2 hours."
+  },
+  {
+    "id": "prod007",
+    "name": "Argan Oil Hair Mask",
+    "type": "Hair",
+    "brand": "Moroccanoil",
+    "ingredients": [
+      "Argan Oil",
+      "Linseed Extract",
+      "Hydrolyzed Vegetable Protein"
+    ],
+    "benefits": [
+      "Deep conditioning",
+      "Adds shine",
+      "Improves elasticity",
+      "Reduces frizz"
+    ],
+    "usage": "Apply a generous amount to towel-dried hair. Leave on for 5-7 minutes. Rinse thoroughly."
+  },{
+    "id": "prod008",
+    "name": "Retinol 0.5% in Squalane",
+    "type": "Skin",
+    "brand": "The Ordinary",
+    "ingredients": [
+      "Retinol",
+      "Squalane",
+      "Caprylic/Capric Triglyceride"
+    ],
+    "benefits": [
+      "Reduces signs of aging",
+      "Improves skin elasticity",
+      "Minimizes pores",
+      "Evens skin tone"
+    ],
+    "usage": "Apply a small amount to the face in the evening as part of your skincare regimen, after water-based serums but before heavier treatments."
+  },
+  {
+    "id": "prod009",
+    "name": "CeraVe Hydrating Facial Cleanser",
+    "type": "Skin",
+    "brand": "CeraVe",
+    "ingredients": [
+      "Ceramides",
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Niacinamide"
+    ],
+    "benefits": [
+      "Cleanses without stripping",
+      "Restores skin barrier",
+      "Hydrates",
+      "Non-comedogenic"
+    ],
+    "usage": "Wet skin with lukewarm water. Massage cleanser into skin in a gentle, circular motion. Rinse."
+  },
+  {
+    "id": "prod010",
+    "name": "Olaplex No. 3 Hair Perfector",
+    "type": "Hair",
+    "brand": "Olaplex",
+    "ingredients": [
+      "Bis-Aminopropyl Diglycol Dimaleate",
+      "Water",
+      "Propylene Glycol",
+      "Cetearyl Alcohol"
+    ],
+    "benefits": [
+      "Repairs damaged bonds",
+      "Strengthens hair",
+      "Reduces breakage",
+      "Improves hair health"
+    ],
+    "usage": "Apply a generous amount to damp, towel-dried hair. Leave on for a minimum of 10 minutes. Rinse thoroughly."
+  },
+  {
+    "id": "prod011",
+    "name": "Fenty Beauty Gloss Bomb Universal Lip Luminizer",
+    "type": "Makeup",
+    "brand": "Fenty Beauty",
+    "ingredients": [
+      "Shea Butter",
+      "Vitamin E",
+      "Polybutene",
+      "Octyldodecanol"
+    ],
+    "benefits": [
+      "High-shine finish",
+      "Non-sticky formula",
+      "Hydrates lips",
+      "Universal shade"
+    ],
+    "usage": "Apply as desired to lips for a high-shine finish. Can be worn alone or over lipstick."
+  },
+  {
+    "id": "prod012",
+    "name": "Native Deodorant - Coconut & Vanilla",
+    "type": "Body",
+    "brand": "Native",
+    "ingredients": [
+      "Caprylic/Capric Triglyceride",
+      "Tapioca Starch",
+      "Baking Soda",
+      "Coconut Oil",
+      "Shea Butter"
+    ],
+    "benefits": [
+      "Aluminum-free",
+      "Long-lasting odor protection",
+      "Natural ingredients",
+      "Smooth application"
+    ],
+    "usage": "Apply to underarms. For external use only."
+  },
+  {
+    "id": "prod013",
+    "name": "Tatcha The Dewy Skin Cream",
+    "type": "Skin",
+    "brand": "Tatcha",
+    "ingredients": [
+      "Japanese Purple Rice",
+      "Okinawa Algae Blend",
+      "Hyaluronic Acid",
+      "Botanical Extracts"
+    ],
+    "benefits": [
+      "Intense hydration",
+      "Plumps and softens skin",
+      "Boosts radiance",
+      "Anti-aging properties"
+    ],
+    "usage": "Scoop a pearl-sized amount with the gold spoon. Massage onto face, neck, and décolletage in upward strokes."
+  },
+  {
+    "id": "prod014",
+    "name": "Kiehl's Midnight Recovery Concentrate",
+    "type": "Skin",
+    "brand": "Kiehl's",
+    "ingredients": [
+      "Evening Primrose Oil",
+      "Lavender Essential Oil",
+      "Squalane",
+      "Jojoba Seed Oil"
+    ],
+    "benefits": [
+      "Restores skin overnight",
+      "Boosts radiance",
+      "Smooths skin texture",
+      "Reduces fine lines"
+    ],
+    "usage": "Apply 2-3 drops onto cleansed skin after serum. Gently press onto cheeks, forehead, and chin."
+  },
+  {
+    "id": "prod015",
+    "name": "Drunk Elephant C-Firma Fresh Day Serum",
+    "type": "Skin",
+    "brand": "Drunk Elephant",
+    "ingredients": [
+      "15% L-Ascorbic Acid (Vitamin C)",
+      "Ferulic Acid",
+      "Vitamin E",
+      "Pumpkin Ferment Extract"
+    ],
+    "benefits": [
+      "Brightens and firms skin",
+      "Reduces photodamage",
+      "Antioxidant protection",
+      "Improves signs of aging"
+    ],
+    "usage": "In the morning, apply evenly to clean, dry face, neck, and chest. Follow with moisturizer and sunscreen."
+  },
+  {
+    "id": "prod016",
+    "name": "Briogeo Don't Despair, Repair! Deep Conditioning Mask",
+    "type": "Hair",
+    "brand": "Briogeo",
+    "ingredients": [
+      "Rosehip Oil",
+      "Algae Extract",
+      "B Vitamins",
+      "Avocado Oil"
+    ],
+    "benefits": [
+      "Deeply conditions",
+      "Repairs damage",
+      "Strengthens hair",
+      "Adds moisture"
+    ],
+    "usage": "After shampooing, massage into hair, ensuring even application. Leave on for 5-10 minutes. Rinse thoroughly."
+  },{
+    "id": "prod006",
+    "name": "Centella Green Level Buffet Serum",
+    "type": "Skin",
+    "brand": "Purito",
+    "ingredients": [
+      "Centella Asiatica Extract",
+      "Niacinamide",
+      "Panthenol",
+      "Ceramide NP"
+    ],
+    "benefits": [
+      "Soothes irritated skin",
+      "Strengthens skin barrier",
+      "Improves hydration",
+      "Reduces redness"
+    ],
+    "usage": "Apply after cleansing and toning. Use morning and evening."
+  },
+  {
+    "id": "prod007",
+    "name": "Hydrium Centella Aqua Toner",
+    "type": "Skin",
+    "brand": "COSRX",
+    "ingredients": [
+      "Centella Asiatica Leaf Water",
+      "Madecassoside",
+      "Panthenol",
+      "Allantoin"
+    ],
+    "benefits": [
+      "Calms skin",
+      "Preps for serum",
+      "Boosts hydration",
+      "Improves skin texture"
+    ],
+    "usage": "Use on clean face with cotton pad or hands before serum or moisturizer."
+  },
+  {
+    "id": "prod008",
+    "name": "Deep Clean Gentle Facial Cleanser",
+    "type": "Skin",
+    "brand": "Neutrogena",
+    "ingredients": [
+      "Salicylic Acid",
+      "Glycerin",
+      "Sodium Laureth Sulfate",
+      "Chamomile Extract"
+    ],
+    "benefits": [
+      "Removes dirt and oil",
+      "Unclogs pores",
+      "Prevents acne",
+      "Leaves skin fresh"
+    ],
+    "usage": "Massage onto wet skin, rinse thoroughly. Use morning and evening."
+  },
+  {
+    "id": "prod009",
+    "name": "Ultra Facial Cream",
+    "type": "Skin",
+    "brand": "Kiehl's",
+    "ingredients": [
+      "Squalane",
+      "Glycerin",
+      "Glacial Glycoprotein",
+      "Urea"
+    ],
+    "benefits": [
+      "Intense hydration",
+      "Protects skin barrier",
+      "Softens skin",
+      "Improves moisture retention"
+    ],
+    "usage": "Apply to clean face as last step of routine, morning and night."
+  },
+  {
+    "id": "prod010",
+    "name": "Glow Recipe Watermelon Glow Sleeping Mask",
+    "type": "Skin",
+    "brand": "Glow Recipe",
+    "ingredients": [
+      "Watermelon Extract",
+      "Hyaluronic Acid",
+      "AHA (Glycolic Acid)",
+      "Peony Root Extract"
+    ],
+    "benefits": [
+      "Exfoliates gently overnight",
+      "Hydrates deeply",
+      "Brightens dull skin",
+      "Refines pores"
+    ],
+    "usage": "Apply thin layer at night. Rinse off in morning or leave on for maximum effect."
+  }
+
+]
